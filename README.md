@@ -1,7 +1,7 @@
 # 🧠 Hybrid DistilBERT + Tabular Price Prediction
 _Amazon ML Challenge 2025 – Top 1% (Rank 107 / 7000+)_
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=Hybrid+DistilBERT+%2B+Tabular+Price+Prediction)
+![Project Banner](https://postimg.cc/HrbWHvRw)
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2+-EE4C2C?logo=pytorch)](https://pytorch.org/)
