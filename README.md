@@ -1,7 +1,9 @@
 # 🧠 Hybrid DistilBERT + Tabular Price Prediction
 _Amazon ML Challenge 2025 – Top 1% (Rank 107 / 7000+)_
 
-![Project Banner](https://postimg.cc/HrbWHvRw)
+<p align="center">
+  <img src="https://i.postimg.cc/W4Yxb7TT/Whats-App-Image-2025-10-01-at-16-40-01.jpg" alt="Amazon ML Challenge 2025" width="800">
+</p>
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2+-EE4C2C?logo=pytorch)](https://pytorch.org/)
@@ -37,6 +39,12 @@ The evaluation metric was **SMAPE (Symmetric Mean Absolute Percentage Error)**.
 ---
 
 ## ⚙️ Model Architecture
+## Hybrid Price Prediction Flow Diagram
+
+![Hybrid Price Prediction Flow Diagram](https://i.postimg.cc/cLbvRVcb/diagram-export-10-25-2025-8-01-46-AM.png)
+
+
+
 
 ### 🧠 Text Encoder — DistilBERT
 - Pretrained **DistilBERT** model for embedding `catalog_content`
